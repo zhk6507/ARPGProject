@@ -1,0 +1,8 @@
+﻿1001|英勇打击|yingyongdaji|Male|Basic|Basic|0|30|普通攻击
+1002|狂怒|kuangnu|Male|Skill|One|5|45|一股怒火由内而外爆发，对敌人造成伤害
+1003|致死打击|zhisidaji|Male|Skill|Two|8|88|对敌人发动致命一击，造成大量伤害
+1004|圣光涌动|shengguangyongdong|Male|Skill|Three|10|120|体内圣光之力涌动，对敌人造成大量神圣伤害
+2001|雷动九天|icon_zhu|Female|Basic|Basic|0|30|1111111111
+2002|炽修罗|icon_li|Female|Skill|One|5|35|1111111111
+2003|不动明王|iocn_fo|Female|Skill|Two|8|40|1111111111
+2004|唯我独尊|iocn_ho|Female|Skill|Three|13|50|1111111111
